@@ -18,8 +18,8 @@ Making recommendations to the business
 
 Course learning outcomes - By the end of this course. 
 
-utilise Python to collect and import large amounts of complex data through various approaches, including web scraping techniques and APIs
-utilise Python to wrangle data for effective analysis
-complete advanced analytical processes to determine critical business insights from data sets
-prepare comprehensive and complex visualisations to gather insights and study trends, and present insights to support critical business decisions
-articulate and justify approaches, insights, and recommendations to inform business strategies.
+*utilise Python to collect and import large amounts of complex data through various approaches, including web scraping techniques and APIs
+*utilise Python to wrangle data for effective analysis
+*complete advanced analytical processes to determine critical business insights from data sets
+*prepare comprehensive and complex visualisations to gather insights and study trends, and present insights to support critical business decisions
+*articulate and justify approaches, insights, and recommendations to inform business strategies.
